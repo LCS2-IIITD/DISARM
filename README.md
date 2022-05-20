@@ -1,6 +1,8 @@
 # DISARM
 Repository for "DISARM: Detecting the Victims Targeted by Harmful Memes" @ NAACL'22 (Findings)
 
+arXiv'ed version: https://arxiv.org/abs/2205.05738
+
 The enclosure has the following (besides a readme.txt):
 <ol>
 <li> requirements.txt
