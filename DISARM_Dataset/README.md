@@ -1,7 +1,7 @@
 # DISARM Dataset details
 
 <h3>MEME IMAGES DOWNLOAD!</h3> Meme images can be used from <a href="https://aclanthology.org/2021.findings-emnlp.379/">HarMeme</a> Dataset, the full set of which can be downloaded from <a href="https://github.com/LCS2-IIITD/MOMENTA"> here.</a>
-
+<br><br>
 The train/val/test annotations alongwith other metadata can be found here in jsonl format.
 The test set is available as per the following configurations, benchmarked in the paper:
 
